@@ -1,0 +1,30 @@
+2019-03-15 11:02:27 error: ER_BAD_FIELD_ERROR: Unknown column 'p.modified_date' in 'field list'
+2019-03-15 11:53:48 error: ER_DATA_TOO_LONG: Data too long for column 'activestatus' at row 1
+2019-03-15 11:53:59 error: ER_DATA_TOO_LONG: Data too long for column 'activestatus' at row 1
+2019-03-15 12:22:24 error: operationName is not defined
+2019-03-15 12:22:58 error: operationName is not defined
+2019-03-15 12:23:08 error: operationName is not defined
+2019-03-15 12:23:20 error: ER_SP_WRONG_NO_OF_ARGS: Incorrect number of arguments for PROCEDURE rems.sp_proc_getoperation; expected 2, got 0
+2019-03-15 12:23:53 error: Console is not defined
+2019-03-15 12:24:27 error: Console is not defined
+2019-03-15 12:25:04 error: Console is not defined
+2019-03-15 12:25:11 error: Console is not defined
+2019-03-15 12:25:23 error: Console is not defined
+2019-03-15 12:25:46 error: ER_SP_WRONG_NO_OF_ARGS: Incorrect number of arguments for PROCEDURE rems.sp_proc_getoperation; expected 2, got 0
+2019-03-15 12:29:23 error: ER_SP_WRONG_NO_OF_ARGS: Incorrect number of arguments for PROCEDURE rems.sp_proc_getoperation; expected 2, got 0
+2019-03-15 12:29:48 error: ER_SP_WRONG_NO_OF_ARGS: Incorrect number of arguments for PROCEDURE rems.sp_proc_getoperation; expected 2, got 0
+2019-03-15 14:32:09 error: checkAlreadyExistOperation is not defined
+2019-03-15 14:32:33 error: checkAlreadyExistOperation is not defined
+2019-03-15 14:32:53 error: checkAlreadyExistOperation is not defined
+2019-03-15 14:36:09 error: checkAlreadyExistOperation is not defined
+2019-03-15 14:36:35 error: checkAlreadyExistOperation is not defined
+2019-03-15 14:37:02 error: checkAlreadyExistOperation is not defined
+2019-03-15 14:38:13 error: checkAlreadyExistOperation is not defined
+2019-03-15 14:41:09 error: checkAlreadyExistOperation is not defined
+2019-03-15 14:43:15 error: operationRepo.insertoperation is not a function
+2019-03-15 14:49:20 error: operationRepo.insertoperation is not a function
+2019-03-15 14:54:58 error: operationRepo.insertoperation is not a function
+2019-03-15 17:22:46 error: resourcesRepo is not defined
+2019-03-15 17:23:15 error: resourcesRepo is not defined
+2019-03-15 17:28:53 error: resourcesRepo is not defined
+2019-03-15 17:29:25 error: resourcesRepo is not defined
